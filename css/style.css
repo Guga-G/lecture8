@@ -1,0 +1,150 @@
+header {
+	width: 1360px;
+	height: 81px;
+	margin: 0 auto;
+}
+
+.container {
+	width: 1360px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 81px;
+	gap: 400px;
+}
+
+.tourism {
+	width: 133px;
+	height: 31px;
+}
+
+.navigation {
+
+}
+
+.nav {
+
+}
+
+li {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	line-height: 37px;
+	color: #303134;
+	opacity: 1;
+}
+
+.ulist {
+	width: 550px;
+	height: 31px;
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	gap: 48px;
+
+}
+
+.s-1 {
+	width: 1360px;
+	height: 569px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	background-image: url("../images/Clip.png");
+	display: flex;
+	justify-content: center;
+  	align-items: center;
+  	flex-direction: column;
+  	gap: 36px;
+}
+
+/* section 1 */
+
+.div-s1 {
+	
+}
+
+.div-s2 {
+
+}
+
+.h-1 {
+	font-family: 'Arial', sans-serif;
+	font-size: 78px;
+	line-height: 52px;
+	color: white;
+}
+
+.h-2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 37px;
+	color: white;
+	text-align: center;
+}
+
+/* section 2 */
+
+.s-2 {
+	width: 1360px;
+	height: 690px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.s2-div1 {
+	width: 269px;
+}
+
+.cont2 {
+	width: 850px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-around;
+	gap: 18px;
+}
+
+.h4-s2-div1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	line-height: 37px;
+	color: #8D8D8D;
+}
+
+.h3-s2-div1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	line-height: 37px;
+	color: #1A1A1B;
+}
+
+.h5-s2-div1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 22px;
+	color: #8D8D8D;
+}
+
+
+.s2-div2 {
+	width: 269px;
+}
+
+.section2-images {
+	width: 269px;
+	height: 181px;
+}
+
+.h3-s2-div2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	color: #1A1A1B;
+}
+
+footer {
+	width: 1360px;
+	height: 81px;
+	margin: 0 auto;
+}
